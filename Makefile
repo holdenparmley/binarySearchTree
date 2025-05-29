@@ -1,5 +1,5 @@
-p7: main.o binarySearchTree.o
-        g++ -o p7 main.o binarySearchTree.o
+binarySearchTree: main.o binarySearchTree.o
+        g++ -o binarySearchTree main.o binarySearchTree.o
 
 main.o: main.cpp
         g++ -c main.cpp
