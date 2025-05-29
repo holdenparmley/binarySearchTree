@@ -8,4 +8,4 @@ binarySearchTree.o: binarySearchTree.cpp binarySearchTree.h
         g++ -c binarySearchTree.cpp
 
 clean:
-        rm -f p7 *.o *-
+        rm -f binarySearchTree *.o *-
