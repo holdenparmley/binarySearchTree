@@ -1,7 +1,3 @@
-// Holden Parmley, holdenjparmley@gmail.com, hparmley on Pengo                                                                                                                                                                                     
-// Main function for assignment 7, binary search tree                                                                                                                                                                                              
-// Working/tested, no errors or warnings                                                                                                                                                                                                           
-
 #include "binarySearchTree.h"
 #include <string>
 #include <iostream>
