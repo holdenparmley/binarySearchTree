@@ -1,7 +1,3 @@
-// Holden Parmley, holdenjparmley@gmail.com, hparmley on Pengo                                          
-// Header for a binary search tree class                                                                
-// Working/tested, no errors or warnings                                                                
-
 #include <utility>
 #include <string>
 
